@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.daws86s.space # mongodb-dev.daws86s.space
+REDIS_HOST: redis.daws86s.space
+CATALOGUE_HOST: catalogue.backend-alb.daws86s.space
+CART_HOST: cart.backend-alb.daws86s.space
+USER_HOST: user.backend-alb.daws86s.space
+RABBITMQ_HOST: rabbitmq.daws86s.space
+MYSQL_HOST: mysql.daws86s.space
+SHIPPING_HOST: shipping.backend.daws86s.space
+PAYMENT_HOST: payment.backend-alb.daws86s.space
